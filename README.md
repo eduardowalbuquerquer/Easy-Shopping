@@ -7,7 +7,7 @@ A modern, intuitive, and responsive e-commerce website, designed while learning 
 ### 🖥️ Project Preview
 
 <!-- TIP: Take a screenshot of your project's main screen, upload the image to the repository itself or use an image hosting service, and paste the link here. A great look sells the project right away! -->
-<img src="https://github.com/eduardowalbuquerquer/Easy-Shopping/blob/master/MockUp%20Easy%20Shopping.png?raw=true" width style="max-width: 30%;" />
+<img src="https://github.com/eduardowalbuquerquer/Easy-Shopping/blob/master/MockUp%20Easy%20Shopping.png?raw=true" width style ="width: 390px;" />
 
 ---
 
